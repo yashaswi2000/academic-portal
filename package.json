@@ -1,0 +1,33 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "database project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yashaswi makula",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.7.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "express-handlebars": "^3.1.0",
+    "express-session": "^1.15.6",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.5",
+    "multer": "^1.4.2",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "pg": "^7.12.1",
+    "strcmp": "^1.0.0"
+  }
+}
