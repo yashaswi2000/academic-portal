@@ -17,7 +17,7 @@
     "ejs": "^2.7.1",
     "express": "^4.16.4",
     "express-ejs-layouts": "^2.5.0",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-session": "^1.15.6",
     "joi": "^14.3.1",
     "joi-objectid": "^3.0.1",
